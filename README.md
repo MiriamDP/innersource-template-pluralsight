@@ -10,6 +10,10 @@
 - [Understanding cultural ingredients](cultural-ingredients/)
 - [Working thorught cultural resistence](cultural-resistence/)
 
+### Developer Enablement
+- [Overcoming contributor friction](contributor-friction/)
+- [Trusted Committer Role](tc-role/)
+
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
 - [Measuring success](metrics/)
