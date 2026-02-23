@@ -13,11 +13,13 @@
 ### Developer Enablement
 - [Overcoming contributor friction](contributor-friction/)
 - [Trusted Committer Role](tc-role/)
-
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
 - [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
+### Governace
+- [Measuring success](metrics/)
+- [Rollout cheklicts](rollout-checklist/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
